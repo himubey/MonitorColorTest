@@ -21,6 +21,14 @@ display: block;
     
 }
 
+h1 {
+    color: darkslategray;
+}
+
+h2 {
+    color: darkslategrey;
+}
+
 #red {
     background: red;
 }
