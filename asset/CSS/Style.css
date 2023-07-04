@@ -17,6 +17,7 @@ display: block;
     height: 100px;
     border: solid black 2px;
     display: inline-block;
+    border-radius: 60%;
     
 }
 
@@ -32,3 +33,10 @@ display: block;
     background: blue;
 }
 
+#gray {
+    background: gray;
+}
+
+#black {
+    background: black;
+}
