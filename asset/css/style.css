@@ -47,4 +47,5 @@ h2 {
 
 #black {
     background: black;
+    border: solid white 1.5px;
 }
